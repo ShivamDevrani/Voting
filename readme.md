@@ -1,5 +1,14 @@
 # Election Voting System API
 
+## Login id ans password
+- JSON Format:
+    ```json
+    {
+       "aadharNumber":"5434",
+    "password":"qwerty1121"
+    }
+    ```
+
 ## User Authentication
 
 - **Sign Up**
