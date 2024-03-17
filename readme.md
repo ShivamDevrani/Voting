@@ -1,6 +1,6 @@
 # Election Voting System API
 
-## Login id and password
+## Admin Login id and password
 - JSON Format:
     ```json
     {
